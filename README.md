@@ -23,4 +23,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## My stats 📊
-[![Angello's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelloFD&theme=dark&show_icons=true)]
+[![Angello's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelloFD&theme=dark&show_icons=true)
