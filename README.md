@@ -3,6 +3,9 @@
 - ⚡ Fun fact: I'm always full of ideas
 - 📫 How to reach me: fallaangello@gmail.com
 
+## My habilities
+- Open minded
+
 ## What sticked to my head 🤔
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,6 +26,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-Express%20JS-000000?logo=express&style=for-the-badge)
 
 ### Tools & IDEs
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
