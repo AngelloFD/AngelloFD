@@ -1,7 +1,4 @@
-## Angello Falla - Software Engineer
-- 📫 How to reach me: fallaangello@gmail.com
-
-## What sticked to my head 🤔
+## What sticked to my head
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -18,5 +15,5 @@
 ![ExpressJS](https://img.shields.io/badge/-Express%20JS-000000?logo=express&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-Nest%20JS-E8310E?logo=nestjs&style=for-the-badge)
 
-## My stats 📊
-[![Angello's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelloFD&theme=solarized_dark)
+## My stats
+[![Shoclo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelloFD&theme=solarized_dark)
