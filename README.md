@@ -14,6 +14,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express%20JS-000000?logo=express&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-Nest%20JS-E8310E?logo=nestjs&style=for-the-badge)
-
-## My stats
-[![Shoclo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AngelloFD&theme=solarized_dark)
